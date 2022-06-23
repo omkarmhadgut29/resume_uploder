@@ -1,11 +1,11 @@
 # Resume Uploader
 
-### About
+## About
 
 This is django-REST-framework app.
 In this project, there are api created.
 
-### Installtion & Running the app
+## Installtion & Running the app
 
 1. Clone Repository
 2. Install Python
@@ -13,7 +13,7 @@ In this project, there are api created.
 4. run requirements.txt file
 5. Go to backend/backend and run `py manage.py runserver`
 
-### Calling API
+## Calling API
 
 1. For getting data from db (GET Request):
    `http://127.0.0.1:8000/api/candidates/`
